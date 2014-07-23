@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: db_creator
+Description: Description of db_creator
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: cv_bridge image_transport opencv2 roscpp std_msgs

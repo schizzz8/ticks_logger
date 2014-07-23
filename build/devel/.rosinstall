@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dede/catkin_ws/src/db_creator/build/devel/setup.sh

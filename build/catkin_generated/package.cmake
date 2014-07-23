@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "db_creator")
+set(db_creator_MAINTAINER "dede <dede@todo.todo>")
+set(db_creator_DEPRECATED "")
+set(db_creator_VERSION "0.0.0")
+set(db_creator_BUILD_DEPENDS "cv_bridge" "image_transport" "opencv2" "roscpp" "std_msgs")
+set(db_creator_RUN_DEPENDS "cv_bridge" "image_transport" "opencv2" "roscpp" "std_msgs")
+set(db_creator_BUILDTOOL_DEPENDS "catkin")

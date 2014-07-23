@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="rosbag" type="play" name="rosbag" args="--pause --clock /home/dede/bags/2014-04-02-16-51-19.bag" output="screen"/>
+  <node name="db_creator_node" pkg="db_creator" type="db_creator_node" output="screen"/>
+  <param name="use_sim_time" value="true" />
+</launch>

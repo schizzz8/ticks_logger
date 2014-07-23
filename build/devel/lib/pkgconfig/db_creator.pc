@@ -1,0 +1,8 @@
+prefix=/home/dede/catkin_ws/src/db_creator/build/devel
+
+Name: db_creator
+Description: Description of db_creator
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dede/catkin_ws/src/db_creator/build/devel/lib 
+Requires: cv_bridge image_transport opencv2 roscpp std_msgs
